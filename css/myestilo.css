@@ -1,0 +1,32 @@
+nav {
+    background-color: #005883;
+}
+
+footer {
+  background-color: #005883;
+  color: white;
+  position: sticky;
+  bottom: 0;
+}
+
+.icono {
+  width:80%
+}
+
+figure img {
+  width: 95%;
+}
+
+figcaption {
+  font-size: small;
+  text-align: center;
+}
+
+@media (max-width: 414px) {
+  .jumbotron {
+    margin-top: 30px;
+  }
+  .videoss {
+    width: 100%;
+  }
+}
